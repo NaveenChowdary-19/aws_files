@@ -1,0 +1,44 @@
+ 1.. Input Given In The form Of json format
+ 
+ 2.. Input Consists 2 Teams..  ..
+ 
+ 3.. Out put Should Print In The Format of Internationsl Match ScoreCard..
+ 
+ 4.. Means 6 - 7 players Runs and Balls Should Print In Scorecard format
+ 
+ 5..The players Runs And Balls will Be In Random Way.
+ 
+ 6.. Its a T20 Match.. And Overs Are 20 So Balls Are 120 So If Total players 
+     Played balls in the match are should be 120 and 
+     
+     Out put Runs And Balls And 6's All Should Be IN Random Output
+     
+     ex:::----
+     
+     Batsman          Runs     Balls    6's 
+     
+     Rohith           65        34       4                   
+     
+     
+     Yuvaraj          34        20       2
+     
+     Kohli            45        30       2
+     
+     Dhoni            60        36       4
+     
+     
+     Total            204      120       12
+      
+   
+  7.. Batsman Should Out And Next Batsman Will Come In A List Order So
+      Code Should Write As Batsman Will out And Next Batsman Will Come 
+    To Crease And so on..
+  
+      
+ 8.. If You Want a Perticular Player Stat Then The Player Stats Will Print 
+   
+ 9.. Opposite Team Stats Should Also Print will Print In Above Way..
+ 
+ 10.. Match Result Will Based On The Total Score Comparison..
+ 
+ 11.. So Match win Is Purely Based On The Random Way...

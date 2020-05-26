@@ -1,0 +1,14 @@
+import csv
+'''with open('Naveen-Python/Names.csv','r') as csv_file:
+    csv_reader=csv.reader(csv_file)
+    
+    for line in csv_reader:
+        print(line)
+
+-------------------    
+o/p ===   ['Naveen', 'Chowdary', 'Naveen@fgg.com']
+['Ragh', 'Thiru', 'GGff@hhgh.com']
+['Shiv', 'chowd', 'Shihjhg@hg.com']
+
+'''
+<---------------------->

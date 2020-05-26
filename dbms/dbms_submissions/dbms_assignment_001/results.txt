@@ -1,0 +1,22 @@
+Tests ran at 30 Apr 03 41 PM
+
+6 tests passed out of 14 tests.
+
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_user_table_creation_whether_columns_exists: passed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_user_table_raises_error_when_first_name_is_null: passed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_user_table_raises_error_when_last_name_is_null: passed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_user_table_raises_error_when_phone_number_is_null: passed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_post_table_creation: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_post_table_for_auto_increment: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_user_creation_q3: passed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_user_creation_q4: passed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_post_creation_q5: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_get_all_coulmns_user_table: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_get_first_and_last_coulmns_user_table: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_update_tony_name: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_delete_john_wick: failed
+test_26bc5356-89c8-4f2c-9f0d-8eba75eb7e7c_db001.py::test_delete_post_table: failed
+
+
+Errors: 0 errors
+
